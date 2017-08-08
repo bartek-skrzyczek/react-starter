@@ -1,0 +1,28 @@
+event names in react?
+onInputChange(event) {
+  console.log(event);
+}
+---------------------------------------------------
+
+index.js
+
+import react
+import react dom
+import searchBar from components
+
+set APi_key
+
+write a component, which will return SearchBar
+Render this component
+
+---------------------------------------------------------
+search bar
+
+import React
+define component with returned input inside
+export searchbar
+
+es6 class component - refactor from functional to react based componend
+create class component
+
+create onInputChange handler and assign it onchange to search bar
