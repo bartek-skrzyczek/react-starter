@@ -19,10 +19,15 @@ Render this component
 search bar
 
 import React
-define component with returned input inside
+define const = () => {}   component with returned input inside
 export searchbar
 
-es6 class component - refactor from functional to react based componend
+es6 class component - refactor from functional to react based component
 create class component
 
-create onInputChange handler and assign it onchange to search bar
+create onInputChange handler and assign it onchange to search bar, event is value;
+
+add a new method - constructor & super
+initialize empty state
+
+update the component: write onchange
