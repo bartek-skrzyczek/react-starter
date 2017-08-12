@@ -15,6 +15,8 @@ set APi_key
 write a component, which will return SearchBar
 Render this component
 
+import YTSearch from yt-api (from node modules)), then create a function which accept data as an argument
+
 ---------------------------------------------------------
 search bar
 
@@ -22,7 +24,7 @@ import React
 define const = () => {}   component with returned input inside
 export searchbar
 
-es6 class component - refactor from functional to react based component
+es6 class component - refactor from functional to react class based component
 create class component
 
 create onInputChange handler and assign it onchange to search bar, event is value;
