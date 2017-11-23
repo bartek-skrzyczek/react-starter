@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom';
 import YTSearch from 'youtube-api-search';
 import SearchBar from './components/search_bar';
 import VideoList from './components/video_list'
-
 const API_KEY = 'AIzaSyBRQ-QrwS4aGou3I8JbklRAqFeQPcwYZz0';
 
 class App extends Component {
